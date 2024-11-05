@@ -19,7 +19,7 @@ This document contains all the resources I have explored in my study of threat m
 
 - **https://youtu.be/qLMlTRTaspg**
 
-#Books (I track books on Good Reads)
+**Books (I track books on Good Reads)**
 
 - **https://www.goodreads.com/book/show/215558532-threat-modeling-gameplay-with-eop**
 
@@ -31,7 +31,7 @@ This document contains all the resources I have explored in my study of threat m
 
 - **https://www.goodreads.com/book/show/55963615-threat-modeling**
 
-#Articles
+**Articles**
 
 - **https://shostack.org/resources/threat-modeling**
 
