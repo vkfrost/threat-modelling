@@ -7,6 +7,8 @@ This document contains all the resources I have explored in my study of threat m
 - **[Part 2 - Threat Modeling Methodologies](https://medium.com/@vivian.kfrost/threat-modelling-methodologies-e1a6e3877276)**
 - **[Part 3 - Threat Modeling Tooling and Automation](https://medium.com/@vivian.kfrost/threat-modelling-tooling-and-automation-f256f2410ded)**
 
+## Games and Scenarios
+
 ## Checklists
 - **Agile Threat Modeling**: [Secure Developer Checklist by Autodesk](https://github.com/Autodesk/continuous-threat-modeling/blob/master/Secure_Developer_Checklist.md)
 
