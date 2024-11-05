@@ -1,4 +1,4 @@
-# Threat Modeling Resources and Articles
+# Threat Modeling Resources
 
 This document contains all the resources I have explored in my study of threat modeling, including five articles I wrote during the learning process.
 
