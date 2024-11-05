@@ -13,7 +13,7 @@ This document contains all the resources I have explored in my study of threat m
 
 ## Resources
 
-# Youtube Videos;
+**Youtube Videos**
 
 - **https://youtu.be/VbW-X0j35gw**
 
