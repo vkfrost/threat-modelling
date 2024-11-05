@@ -43,5 +43,5 @@ This document contains all the resources I have explored in my study of threat m
 
 ## Training Content
 
--**https://app.infosecinstitute.com/portal/skills/content/asset/18487**
+- **https://app.infosecinstitute.com/portal/skills/content/asset/18487**
 
