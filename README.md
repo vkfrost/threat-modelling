@@ -41,7 +41,7 @@ This document contains all the resources I have explored in my study of threat m
 
 - **https://www.frontiersin.org/journals/the-internet-of-things/articles/10.3389/friot.2024.1306465/full**
 
-##Training Content
+## Training Content
 
 -**https://app.infosecinstitute.com/portal/skills/content/asset/18487**
 
