@@ -1,6 +1,6 @@
 # Threat Modeling Resources
 
-This document contains all the resources I have explored in my study of threat modeling, including five articles I wrote during the learning process.
+This document contains all the resources I have explored in my study of threat modeling, including articles I wrote during the learning process.
 
 ## Articles Written
 - **[Part 1 - Threat Modeling: The Concept](https://medium.com/@vivian.kfrost/threat-modelling-the-concept-040cf4aa9f2e)**
